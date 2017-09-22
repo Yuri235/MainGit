@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="TypesOfAnimals">
+        <item> Млекопитающие </item>
+        <item> Насекмоые </item>
+        <item> Сумчатые </item>
+    </string-array>
+
+    <string-array name="Млекопитающие">
+        <item> Дельфин </item>
+        <item> Собака </item>
+    </string-array>
+
+    <string-array name="Насекомые">
+        <item> Муравей </item>
+        <item> Паук </item>
+    </string-array>
+
+    <string-array name="Грызуны">
+        <item> Крыса </item>
+        <item> Мышь </item>
+    </string-array>
+
+    <string-array name="Сумчатые">
+        <item> Кенгуру </item>
+        <item> Пятнистая сумчатая куница </item>
+    </string-array>
+
+
+</resources>
